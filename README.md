@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Pedro 👋
 
-<!--
-**Pedrofrmndss/Pedrofrmndss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Still learning. Still building.**
 
-Here are some ideas to get you started:
+I build things to understand how they work: web apps, interactive pieces, small tools.
+I like to see how an idea turns into something that actually works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 **Currently building**
+- My portfolio: Vite, Three.js and letters drawn entirely in code
+- 
+🎮 **Interested in:** game tech, APIs, how big systems are built
+
+📫 [Portfolio](https://ssdnmrfp.github.io/) · [LinkedIn](https://www.linkedin.com/in/pedrofrmndss/)
