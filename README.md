@@ -10,4 +10,4 @@ I like to see how an idea turns into something that actually works.
 - 
 🎮 **Interested in:** game tech, APIs, how big systems are built
 
-📫 [Portfolio](https://ssdnmrfp.github.io/) · [LinkedIn](https://www.linkedin.com/in/pedrofrmndss/)
+📫 [Portfolio](https://pedrofrmndss.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/pedrofrmndss/)
